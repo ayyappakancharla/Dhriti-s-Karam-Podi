@@ -1,0 +1,1 @@
+Dhriti's Karam Podi website\n\nKeep index.html and dhritis-brand.png in the same folder. Open index.html in a browser to preview the website.\n\nBefore publishing, replace the Contact for Price text with confirmed prices and pack sizes, and verify the WhatsApp number.\n
